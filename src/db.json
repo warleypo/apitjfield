@@ -4,6 +4,11 @@
             "id": 1,
             "name": "Sul Janaúba",
             "visibly": true
+        },
+        {
+            "id": 2,
+            "name": "Norte Janaúba",
+            "visibly": false
         }
     ],
     "discourses": [
