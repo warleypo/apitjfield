@@ -1,0 +1,39 @@
+{
+    "congregations": [
+        {
+            "id": 1,
+            "name": "Sul Janaúba",
+            "visibly": true
+        }
+    ],
+    "discourses": [
+        {
+            "id": 1,
+            "date": "2023-01-20 00:00:00 GMT-0300",
+            "theme": "Como os verdadeiros cristãos adornam o ensino divino?",
+            "orator": "Werner Santos (Sul Janaúba)",
+            "congregationId": 1,
+            "visibly": true
+        }
+    ],
+    "groups": [
+        { "id":1, "name":"Todos", "visibly": true, "congregationId": 1 }
+    ],
+    "locals": [
+        { "id":1, "name":"Salão do Reino", "visibly": true, "congregationId": 1 }
+    ],
+    "managers": [
+        { "id":1, "name":"Warley", "visibly": true, "congregationId": 1 }
+    ],
+    "fields": [
+        {
+            "id": 1,
+            "date":"2023-01-20 08:00:00 GMT-0300",
+            "groupsId": 1,
+            "localsId": 1,
+            "managersId": 1,
+            "visibly": true,
+            "congregationsId": 1
+        }
+    ]
+}

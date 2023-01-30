@@ -1,0 +1,23 @@
+{
+  "name": "apitjfield",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch src/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warleypo/apitjfield.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warleypo/apitjfield/issues"
+  },
+  "homepage": "https://github.com/warleypo/apitjfield#readme",
+  "dependencies": {
+    "json-server-relationship": "^0.14.5"
+  }
+}
