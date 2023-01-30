@@ -2,7 +2,7 @@
   "name": "apitjfield",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "json-server --watch src/db.json",
     "build": "json-server --watch src/db.json"
