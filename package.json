@@ -4,8 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "json-server --watch src/db.json",
-    "build": "json-server --watch src/db.json"
+    "start": "node server.js",
+    "build": "node server.js"
   },
   "repository": {
     "type": "git",
