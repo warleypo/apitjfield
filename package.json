@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch src/db.json"
+    "start": "json-server --watch src/db.json",
+    "build": "json-server --watch src/db.json"
   },
   "repository": {
     "type": "git",
