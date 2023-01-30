@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/warleypo/apitjfield#readme",
   "dependencies": {
-    "json-server-relationship": "^0.14.5"
+    "json-server": "^0.17.1"
   }
 }
